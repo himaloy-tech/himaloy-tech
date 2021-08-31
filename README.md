@@ -17,7 +17,7 @@ Hi, I'm Himaloy Mondal, a passionate self-taught FullStack Web developer from In
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <div style="margin-bottom: 10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=himaloy-tech&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Anurag's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himaloy-tech&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Himaloy's github stats" />
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaloy-tech&langs_count=9&theme=material-palenight" />
